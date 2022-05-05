@@ -1,5 +1,6 @@
-//Made by: Aiden McLeod
-//Made in: March 2022
+// Aiden McLeod
+// ICS2O-Unit5-03-HTML
+// May 1 2022
 
 'use strict'
 /**
